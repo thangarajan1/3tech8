@@ -40,13 +40,12 @@ nav .nav-item {
   font-weight: 900;
   font-family: "Kdam Thmor Pro", sans-serif;
   letter-spacing: 40px;
-  font-size: 60px;
-
-  overflow: hidden;
+  font-size: 55px;
 }
 .homeImg p {
   letter-spacing: 5px;
   font-weight: 700;
+  text-wrap: wrap;
 }
 .secBox {
   padding: 50px 20px;
