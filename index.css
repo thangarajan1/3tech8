@@ -217,8 +217,7 @@ nav .nav-item {
   }
    .homeImg {
     position: absolute;
-    top: 45%;
-    left: 36%;
+  
     background-color: #ffffff;
     border-radius: 21px;
     opacity: 50%;
